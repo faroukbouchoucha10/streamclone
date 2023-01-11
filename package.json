@@ -11,6 +11,7 @@
     "firebase": "^8.10.1",
     "firebase-admin": "^11.4.1",
     "fuse.js": "^6.6.2",
+    "git-reset": "^0.1.1",
     "movie-trailer": "^2.1.0",
     "normalize.css": "^8.0.1",
     "openssl": "^2.0.0",
