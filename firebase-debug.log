@@ -1,0 +1,25 @@
+[debug] [2023-01-11T20:23:10.630Z] ----------------------------------------------------------------------
+[debug] [2023-01-11T20:23:10.633Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\farou\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-01-11T20:23:10.633Z] CLI Version:   11.20.0
+[debug] [2023-01-11T20:23:10.634Z] Platform:      win32
+[debug] [2023-01-11T20:23:10.634Z] Node Version:  v19.4.0
+[debug] [2023-01-11T20:23:10.634Z] Time:          Wed Jan 11 2023 21:23:10 GMT+0100 (Mitteleuropäische Normalzeit)
+[debug] [2023-01-11T20:23:10.634Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-01-11T20:23:10.708Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-01-11T20:23:10.708Z] > authorizing via signed-in user (fatoukboss123456789@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\farou\Desktop\netflix-clone-using-react
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
